@@ -1,0 +1,13 @@
+﻿numpy
+pandas
+scikit-learn
+requests
+pyarrow
+matplotlib
+seaborn
+jupyter
+ipykernel
+plotly
+kaleido
+dask[dataframe]
+dask-ml
